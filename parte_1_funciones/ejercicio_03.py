@@ -7,4 +7,7 @@ def totalConIVA(total, iva=21):
     return total + (total * iva) / 100
 
 
-print(totalConIVA(100))
+total = float(input("Ingresa el total sin IVA: "))
+porcentaje_iva = float(input("Ingresa el porcentaje de IVA (opcional), sino presiona enter para continuar con 21% por defecto.  "))
+100
+print(f"Total con IVA: {totalConIVA(total, porcentaje_iva)}")
