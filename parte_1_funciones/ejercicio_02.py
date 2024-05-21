@@ -1,11 +1,13 @@
-# Que reciba un número entero positivo y una potencia a elevar y que nos devuelva el resultado. 
+# 2. Que reciba un número entero positivo y una potencia a elevar y que nos devuelva el resultado. 
 
 
-
-def calcularPotencia(num1,numElevar):
-    if num1 > 0:
-     return num1**numElevar
+def calcularPotencia(num,potencia):
+    if num > 0:
+     return num**potencia
     else:
         return None
 
-print(calcularPotencia(-3,3))
+num = int(input("ingresa el primer número entero positivo"))
+potencia = int(input("Ingresa una potencia a elevar"))
+
+print(calcularPotencia(num,potencia))
