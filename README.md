@@ -8,5 +8,3 @@ Ejercicios intermedios: Ejercicios que abordan temas más avanzados, como progra
 
 Ejercicios avanzados: Desafíos más complejos que requieren el uso creativo de múltiples conceptos de Python, como algoritmos, manipulación de datos y desarrollo web básico.
 
-Uso
-Puedo utilizar este repositorio como una forma de llevar un registro de mi progreso en Python y como una referencia rápida para repasar conceptos en el futuro.
