@@ -13,11 +13,11 @@ def ordenarNumeros(lista):
     return lista  
 
 
-
 # Programa
 
 lista_numeros = []
 num_user = input("Ingrese 5 números separados por coma, ejemplo: '1,2,3' \n")
 ordenarNumeros(lista_numeros)
 print(lista_numeros)
+
 
